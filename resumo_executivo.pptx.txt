@@ -1,0 +1,31 @@
+Slides:
+1. Capa
+- Título: Análise Estratégica Northwind
+- Subtítulo: Aumentando Ticket Médio e Reduzindo Churn
+- Data: [Atual]
+
+2. Situação Atual
+- Problemas com relatórios desconexos
+- Dados divergentes entre áreas
+- Impacto na tomada de decisão
+
+3. Principais Métricas
+- Ticket Médio: R$[valor]
+- Taxa de Churn: [valor]%
+- Top 5 Produtos: [listar]
+- Sazonalidade das Vendas
+
+4. Oportunidades Identificadas
+- Pacotes de produtos para aumentar ticket
+- Programa de fidelidade para reduzir churn
+- Otimização de frete por região
+
+5. Próximos Passos
+- Implementação do BI (90 dias)
+- Treinamento da equipe
+- Cronograma e ROI esperado
+
+6. Considerações Finais
+- Benefícios da visão unificada
+- Redução de conflitos
+- Tomada de decisão ágil
